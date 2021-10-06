@@ -33,9 +33,9 @@ alert(pomme || poire || banane || "pas bon.");
 
 ## Après avoir effectué les exercices précédent pouvez vous dire:
 
-### Ce que retourne, par définition, l'opérateur "||" ?
+### -Ce que retourne, par définition, l'opérateur "||" ?
 
-### Ce que retourne, par définition, l'opérateur "??" ?
+### -Ce que retourne, par définition, l'opérateur "??" ?
 
 
 # Precedence
@@ -43,10 +43,10 @@ alert(pomme || poire || banane || "pas bon.");
 ### Des deux opérateurs du dessus, lequelle à la plus grande précédence (prioritée) ?
 
 
-### Faut il:
- #### utiliser ?? avec tous les autres opérateurs ?
- #### ne jamais utiliser ??? avec tous les autres opérateurs ?
- #### quelques fois utiliser ?? avec les autres opérateurs ?
+### .Faut il:
+ #### -Utiliser "??" avec tous les autres opérateurs ?
+ #### -Ne jamais utiliser "??" avec tous les autres opérateurs ?
+ #### -Quelques fois utiliser "??" avec les autres opérateurs ?
 
 ### Que retournent les opérations suivantes (se référer au opérateurs logiques) ?
 
