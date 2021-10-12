@@ -5,7 +5,7 @@
 ___
 
 # _Instuctions :_
-- Faites un fork ce dépot sur votre Github.
+- Faites un fork de ce dépot sur votre Github.
 - Téléchargez le dépôt qui a été fork.
 - Reliez votre dépôt local à https://github.com/tyc45/exercices-js en tant qu'upstream et faites un pull 
 - Choisir un exercice
