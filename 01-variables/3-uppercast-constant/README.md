@@ -21,4 +21,6 @@ const BIRTHDAY = '18.04.1982'; // créer en majuscule ?
 
 const AGE = someCode(BIRTHDAY); // créer en majuscule ?
 ```
+# Réponse
 
+age changera tous les ans (en fonction de BIRTHDAY) ça n'est donc pas une constante alors que birthday ne changera jamais on peut donc la déclarer en majuscule.

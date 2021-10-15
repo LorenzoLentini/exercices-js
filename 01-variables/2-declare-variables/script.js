@@ -1,4 +1,3 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+let notrePlanete = "Terre";
+let visiteurActuel = prompt("qui est là ?")
+alert("Bonjour " + visiteurActuel + " et bienvenue sur "+ notrePlanete);
