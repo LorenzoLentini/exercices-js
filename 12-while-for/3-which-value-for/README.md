@@ -11,10 +11,10 @@ Les deux boucles `alert` les mêmes valeurs ou pas ?
 1. La forme postfix :
 
     ```js
-    for (let i = 0; i < 5; i++) alert( i );
+    for (let i = 0; i < 5; i++) alert( i ); // s'arrête à 4 car la boucle for fini l'application des valeurs avant de passer à l'incrémentation suivante
     ```
 2. La forme préfix :
 
     ```js
-    for (let i = 0; i < 5; ++i) alert( i );
+    for (let i = 0; i < 5; ++i) alert( i ); // s'arrête à 4 car la boucle for fini l'application des valeurs avant de passer à l'incrémentation suivante
     ```

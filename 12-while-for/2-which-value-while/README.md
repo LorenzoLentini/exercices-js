@@ -12,11 +12,11 @@ Les deux boucles affichent-elles les mêmes valeurs dans l'`alert` ou pas ?
 
     ```js
     let i = 0;
-    while (++i < 5) alert( i );
+    while (++i < 5) alert( i );// l'alerte s'arrête à 4 car i prend la valeur de l’expression avant l’application de l’opération
     ```
 2. Le postfixe sous forme `i++` :
 
     ```js
     let i = 0;
-    while (i++ < 5) alert( i );
+    while (i++ < 5) alert( i );// l'alerte s'arrête à 5 car i prend la valeur de l’expression après l’application de l’opération
     ```
